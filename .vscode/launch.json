@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ZoomPocApplication<Zoom-POC>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.evolphin.Zoom.ZoomPocApplication",
+            "projectName": "Zoom-POC",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
